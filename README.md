@@ -8,8 +8,8 @@
 ![editor](https://img.shields.io/badge/Editor-Visual%20Studio%20Code%201.74.3-007ACC.svg)
 
 [![GitHub stars](https://img.shields.io/github/stars/biachristie/aws-serverless-project.svg?style=social&label=Star&maxAge=2592000)](https://github.com/biachristie/aws-serverless-project/stargazers)
-[![GitHub watchers](https://img.shields.io/github/watchers/biachristie/aws-serverless-project.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/biachristie/aws-serverless-project/watchers)
-[![GitHub forks](https://img.shields.io/github/forks/biachristie/aws-serverless-project.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/biachristie/aws-serverless-project/network/members)
+[![GitHub watchers](https://img.shields.io/github/stars/biachristie/aws-serverless-project.svg?style=social&label=Star&maxAge=2592000)](https://github.com/biachristie/aws-serverless-project/watchers)
+[![GitHub forks](https://img.shields.io/github/stars/biachristie/aws-serverless-project.svg?style=social&label=Star&maxAge=2592000)](https://github.com/biachristie/aws-serverless-project/network/members)
 
 </div>
 <br>
